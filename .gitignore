@@ -103,3 +103,6 @@ ENV/
 #custom
 *.zip
 *.DS_Store
+train_full.csv
+test_full.csv
+submission.csv
