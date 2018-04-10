@@ -1,2 +1,2 @@
-date_time,train_acc,valid_acc,best_iter
-2018-04-09 06:41:17.550155,0.9788251413682204,0.9666387484993704,50
+date_time,train_acc,valid_acc,best_iter,comment
+2018-04-09 13:53:44.416075,0.9855683228464717,0.9677499767988685,61,"Trained with all data, 5 features from andys"
